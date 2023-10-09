@@ -1,6 +1,6 @@
 # grindingbuttons
 
-This template should help get you started developing with Vue 3 in Vite.
+On working progress, this project, it's a video game that I'm trying to develop alone. It's inspired by games I played when I was younger and what I always wanted them to change about them. It's taking time, and I don't currently have time for it since I'm still a student and I'm working for a big company at the same time. But one day!
 
 ## Recommended IDE Setup
 
